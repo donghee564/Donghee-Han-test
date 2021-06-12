@@ -1,0 +1,54 @@
+.detail {
+  width: 80vw;
+  height: 100vh;
+  padding: 20px;
+  position: fixed;
+  top: 12%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: whitesmoke;
+}
+
+.titleWrap {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.leftBox {
+  width: 60%;
+}
+
+.title {
+  max-height: 25px;
+  font-size: 1.2em;
+  overflow: hidden;
+}
+
+.title > span {
+  margin-right: 2%;
+}
+
+.num {
+  display: flex;
+  align-items: center;
+}
+
+.ctnWrap {
+  margin-top: 4%;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
