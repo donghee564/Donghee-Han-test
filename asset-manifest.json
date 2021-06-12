@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Donghee-Han-test/static/css/main.5336284d.chunk.css",
+    "main.js": "/Donghee-Han-test/static/js/main.572d3944.chunk.js",
+    "main.js.map": "/Donghee-Han-test/static/js/main.572d3944.chunk.js.map",
+    "runtime-main.js": "/Donghee-Han-test/static/js/runtime-main.81a47691.js",
+    "runtime-main.js.map": "/Donghee-Han-test/static/js/runtime-main.81a47691.js.map",
+    "static/js/2.dc58355b.chunk.js": "/Donghee-Han-test/static/js/2.dc58355b.chunk.js",
+    "static/js/2.dc58355b.chunk.js.map": "/Donghee-Han-test/static/js/2.dc58355b.chunk.js.map",
+    "index.html": "/Donghee-Han-test/index.html",
+    "static/css/main.5336284d.chunk.css.map": "/Donghee-Han-test/static/css/main.5336284d.chunk.css.map",
+    "static/js/2.dc58355b.chunk.js.LICENSE.txt": "/Donghee-Han-test/static/js/2.dc58355b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a47691.js",
+    "static/js/2.dc58355b.chunk.js",
+    "static/css/main.5336284d.chunk.css",
+    "static/js/main.572d3944.chunk.js"
+  ]
+}
